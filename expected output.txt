@@ -1,0 +1,11 @@
+Filepath: ../websites/azure.htm                   Score: 100% match.
+Filepath: ../websites/aws.htm                     Score: 89.35% match.
+Filepath: ../websites/iota.htm                    Score: 81.3657% match.
+Filepath: ../websites/eta.htm                     Score: 71.632% match.
+Filepath: ../websites/hologram.htm                Score: 56.7635% match.
+Filepath: ../websites/influx.htm                  Score: 53.0488% match.
+Filepath: ../websites/spanio.htm                  Score: 36.0636% match.
+Filepath: ../websites/inspiritiot.htm             Score: 32.5196% match.
+Filepath: ../websites/pfp.htm                     Score: 31.2282% match.
+Filepath: ../websites/swim.htm                    Score: 28.1689% match.
+Filepath: ../websites/karambasecurity.htm         Score: 19.6697% match.
